@@ -1,0 +1,30 @@
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe.config
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.pdb
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csprojAssemblyReference.cache
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.FormUtama.resources
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.Properties.Resources.resources
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.GenerateResource.cache
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.CoreCompileInputs.cache
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.exe
+C:\Users\Dava Safgi\source\repos\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.pdb
+D:\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe.config
+D:\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe
+D:\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.pdb
+D:\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csprojAssemblyReference.cache
+D:\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.FormUtama.resources
+D:\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.Properties.Resources.resources
+D:\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.GenerateResource.cache
+D:\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.CoreCompileInputs.cache
+D:\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.exe
+D:\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.pdb
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csprojAssemblyReference.cache
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.FormUtama.resources
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas_Akhir_PDKP.Properties.Resources.resources
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.GenerateResource.cache
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.csproj.CoreCompileInputs.cache
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.exe
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\obj\Debug\Tugas Akhir PDKP.pdb
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe.config
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.exe
+C:\Users\Dava Safgi\Downloads\Tugas Akhir PDKP\bin\Debug\Tugas Akhir PDKP.pdb
